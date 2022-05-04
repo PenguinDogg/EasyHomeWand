@@ -1,0 +1,8 @@
+{
+  "item.easyhomewand.homewand": "Teleportation Wand",
+  "item.easyhomewand.homecrystal": "Teleportation Crystal",
+  "sounds.easyhomewand.teleport": "Magic teleportation sound",
+  "sounds.easyhomewand.sethome": "Coordinate placing sound",
+  "sounds.easyhomewand.error": "Teleportation Wand error sound",
+  "effect.easyhomewand.teleported": "Teleportation Fatigue"
+}

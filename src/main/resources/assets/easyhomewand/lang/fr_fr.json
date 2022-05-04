@@ -1,0 +1,8 @@
+{
+  "item.easyhomewand.homewand": "Baguette de Téléportation",
+  "item.easyhomewand.homecrystal": "Cristal de Téléportation",
+  "sounds.easyhomewand.teleport": "Son de Téléportation Magique",
+  "sounds.easyhomewand.sethome": "Placement de Coordonnées",
+  "sounds.easyhomewand.error": "Baguette de Téléportation Mauvais Son",
+  "effect.easyhomewand.teleported": "Fatigue de Téléportation"
+}

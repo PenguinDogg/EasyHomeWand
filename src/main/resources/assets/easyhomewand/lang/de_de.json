@@ -1,0 +1,8 @@
+{
+  "item.easyhomewand.homewand": "Teleportationsstab",
+  "item.easyhomewand.homecrystal": "Teleportationkristall",
+  "sounds.easyhomewand.teleport": "magischer Teleportationsklang",
+  "sounds.easyhomewand.sethome": "Koordinieren Sie die Platzierung von Sounds",
+  "sounds.easyhomewand.error": "Teleportationsstab-Fehlerton",
+  "effect.easyhomewand.teleported": "Teleportationsmüdigkeit"
+}

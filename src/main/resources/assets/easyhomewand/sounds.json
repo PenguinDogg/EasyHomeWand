@@ -1,0 +1,22 @@
+{
+  "teleport_home": {
+    "subtitle": "sounds.easyhomewand.teleport",
+    "sounds": [
+      "easyhomewand:teleport"
+    ]
+  },
+
+  "set_home": {
+    "subtitle": "sounds.easyhomewand.sethome",
+    "sounds": [
+      "easyhomewand:sethome"
+    ]
+  },
+
+  "teleport_error": {
+    "subtitle": "sounds.easyhomewand.error",
+    "sounds": [
+      "easyhomewand:error"
+    ]
+  }
+}
