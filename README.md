@@ -8,7 +8,7 @@
 
 > To teleport to a home, you must left click on a wand with a home set. You will be given Teleport Fatigue, which prevents you from using the wand for 5 minutes. This is a mob effect which can be removed with a bucket of milk.
 
-# Download
+## Download
 [Download On CurseForge Here](https://www.curseforge.com/minecraft/mc-mods/easy-home-wand)
 
 ## Recipes
